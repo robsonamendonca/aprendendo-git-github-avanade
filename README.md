@@ -34,3 +34,8 @@ Uma palavra cercada por 1 asterisco em cada lado terá seu formato modificado pa
 Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado para **negrito**.
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para **negrito/itálico**.
+
+## Criação de hyperlinks
+
+A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
+Ex: [Google](www.google.com)
